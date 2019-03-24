@@ -1,3 +1,5 @@
+![](image/Dta)
+
 # Description
 In the Data science - Visualizing Data and Exploring Models Course, one learns about applying visualizations to data and about feature engineering and constructing machine learning models. 
 
